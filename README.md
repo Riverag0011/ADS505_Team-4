@@ -1,1 +1,5 @@
-# ADS505_Team-4
+## Team Members: 
+
+- Joel Day
+- Marvin Moran
+- Gabi Rivera
