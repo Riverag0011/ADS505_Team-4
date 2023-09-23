@@ -1,5 +1,7 @@
 ## Team Members: 
 
+- Gabi Rivera
 - Joel Day
 - Marvin Moran
-- Gabi Rivera
+
+## Purpose: 
