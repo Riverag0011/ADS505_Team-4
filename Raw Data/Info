@@ -6,13 +6,17 @@ The datasets featured below were created by reconciling thyroid disease datasets
 
 The size for the file featured within this Kaggle dataset is shown below — along with a list of attributes, and their description summaries:
 
->> thyroidDF.csv - 9172 observations x 31 attributes
+> thyroidDF.csv - 9172 observations x 31 attributes
 >
-age - age of the patient (int)
-sex - sex patient identifies (str)
-on_thyroxine - whether patient is on thyroxine (bool)
-query on thyroxine - *whether patient is on thyroxine (bool)
-on antithyroid meds - whether patient is on antithyroid meds (bool)
+>age - age of the patient (int)
+>
+>sex - sex patient identifies (str)
+>
+>on_thyroxine - whether patient is on thyroxine (bool)
+>
+>query on thyroxine - *whether patient is on thyroxine (bool)
+>
+>on antithyroid meds - whether patient is on antithyroid meds (bool)
 sick - whether patient is sick (bool)
 pregnant - whether patient is pregnant (bool)
 thyroid_surgery - whether patient has undergone thyroid surgery (bool)
