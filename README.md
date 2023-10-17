@@ -5,7 +5,8 @@
 - Marvin Moran
 
 ## Purpose: 
-
+>
+>The purpose of this venture is to introduce and evaluate four machine learning models for the early detection (i.e., prediction) of the most prevalent forms of thyroid disease. The aim objective of the project is to improve the accuracy and efficiency of thyroid disease diagnostics that will ideally lead to faster and reliable detection to better patient outcomes as well as reduced healthcare costs.
 
 
 ## Background:
@@ -19,7 +20,10 @@
 
 
 ## Current Situation: 
-
+>
+>Medical research bodies such as the University of California, Irvine have created diagnostic models for the target illness, including more advanced models such as Neural Networks and Support Vector Machine (SVM). However, they present conflicting performance measures and present an opportunity for improvement. While the accuracy measures for such models are high, precision measurements are significantly lower. Due to the repercussions that a false positive can have on a patient, precision becomes a key performance measure as opposed to accuracy. Generating accurate predictions is key and highly important for the early detection of thyroid diseases, ultimately impacting the effectiveness of (early) treatment.   
 
 
 ## Expected Conclusion:
+>
+>It is anticipated that the introduction of the (four) machine learning models will make it easy for individuals to assess their individual risk levels for thyroid disorders. Ultimately, influencing their decision to seek medical attention early. The final (ensemble) model is capable of generating significantly accurate predictions and can group individuals by their risk levels. Additionally, it can recommend courses of action such as, “Very high risk. Consult a doctor” or “Risk level very low. Look out for these symptoms in the future”, for example. From a business viewpoint, these models have the potential to revolutionize thyroid disease detection and with it, greatly profiting the organization. For instance, generating revenue from advertising, controlling pharmaceutical sales for thyroid medication, and obtaining bigger contracts in the future. Human ailments evolve with time and so must our tools to deliver optimal healthcare.
